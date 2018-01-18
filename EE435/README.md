@@ -17,4 +17,5 @@ In the second phase, this randomly generated signal is broadcasted from an exter
 * Yiğit Topoğlu
 
 **Course Instructor:**
+
 Prof. Ali Özgür Yılmaz, METU EE
