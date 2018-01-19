@@ -6,10 +6,6 @@ Technical report of the summer practice completed at Trakya Electricity Distribu
 ## [EE301 Signals and Systems](EE301)
 Term project based on the analysis/synthesis and recognition of the sound signals of various musical instruments and human voice using Fourier Series Representation.
 
-
-## [EE314 Digital Electronics Laboratory](EE314)
-Coin counter implementation with Verilog HDL on FPGA.
-
 ## [EE314 Digital Electronics Laboratory](EE314)
 Coin counter implementation with Verilog HDL on FPGA.
 
