@@ -43,7 +43,7 @@ BW3=N(r3)-N(1);
 
 
 for a=1:r-1
-        F(a)=I(a+1)-I(a);
+    F(a)=I(a+1)-I(a);
 end
 
 if max(F)>z4/2
