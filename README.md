@@ -18,6 +18,10 @@ MATLAB Projects corresponding to EE430 Digital Signal Processing Course.
 ## [EE435 Telecommunications 1](EE435)
 Hyphotesis testing by observation of various amplitude or frequency modulated signals.
 
+## [EE441 Data Structures](EE441)
+Includes the assignments of the course EE441 Data Structures written in C++. 
 
+## [EE442 Operating Systems](EE442)
+Includes the assignments of the EE442 Operating Systems written in C.
 
 
