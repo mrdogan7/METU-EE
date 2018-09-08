@@ -47,7 +47,7 @@ public:
       Entries[num] = student;
       this->num=this->num+1;
     }else {
-      cout << "ÇOK FAZLA STUDENT VAR " << endl;
+      cout << "Ã‡OK FAZLA STUDENT VAR " << endl;
     }
   }
 
